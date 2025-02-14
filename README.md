@@ -5,11 +5,11 @@
 This PowerShell script is designed to remove pre-installed bloatware, disable telemetry, and optimize system settings on Windows 11. It was inspired by the Win11Debloat project and has been customized for personal use.
 Features:
 
-✔ Removes unnecessary apps (e.g., Bing News, Xbox, Copilot, Your Phone)
-✔ Disables OneDrive to prevent automatic file syncing
-✔ Turns off Windows telemetry & tracking services
-✔ Disables widgets and news feeds to declutter the UI
-✔ Includes logging to track all changes
+* ✔ Removes unnecessary apps (e.g., Bing News, Xbox, Copilot, Your Phone)
+* ✔ Disables OneDrive to prevent automatic file syncing
+* ✔ Turns off Windows telemetry & tracking services
+* ✔ Disables widgets and news feeds to declutter the UI
+* ✔ Includes logging to track all changes
 
 **Usage:**
 Run the script as an Administrator in PowerShell:
