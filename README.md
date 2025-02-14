@@ -2,7 +2,7 @@
 
 ## DISCLAIMER: Use this script at your own risk. This script was inspired by the Win11Debloat project on GitHub (https://github.com/Raphire/Win11Debloat) and has been modified for my personal use. Ensure you understand the changes before executing this script on your system.
 
-This PowerShell script is designed to remove pre-installed bloatware, disable telemetry, and optimize system settings on Windows 11. It was inspired by the Win11Debloat project and has been customized for personal use.
+This PowerShell script is designed to remove pre-installed bloatware and disable telemetry on Windows 11. It was inspired by the Win11Debloat project and has been customized for personal use.
 Features:
 
 * Removes unnecessary apps (e.g., Bing News, Xbox, Copilot, Your Phone)
